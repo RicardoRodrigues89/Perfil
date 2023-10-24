@@ -1,8 +1,15 @@
 .eu {
     width: 15rem;
     border-radius: 8rem;
+    
 }
 
 *{text-align: center;
 list-style: none;
 } 
+
+.header__home{
+    background-color: #00388d;
+    font-size: 2rem;
+    color: #ffffff;
+}
