@@ -16,3 +16,8 @@ list-style: none;
     background-color: rgb(105, 0, 0);
     border-image: url("./animated-borders-frame-red-color-footage-201580908_iconl.webp") 100 round;
 }
+
+.content {
+    border: 5px solid black;
+    
+}
