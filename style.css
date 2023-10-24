@@ -1,15 +1,18 @@
 .eu {
     width: 15rem;
-    border-radius: 8rem;
-    
+    border-radius: 10px;
+    border: solid 12px black;
 }
 
 *{text-align: center;
 list-style: none;
 } 
 
-.header__home{
-    background-color: #00388d;
+.header__home {
     font-size: 2rem;
-    color: #ffffff;
+    color: whitesmoke;
+    border: 30px solid transparent;
+    font-size: 40px;
+    background-color: rgb(105, 0, 0);
+    border-image: url("./animated-borders-frame-red-color-footage-201580908_iconl.webp") 100 round;
 }
